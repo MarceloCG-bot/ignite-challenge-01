@@ -7,7 +7,7 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplic
 ## Como baixar e executar o projeto
 
  - Clone o repositório ou baixe como ZIP e descompacte;
- - Execute o backend do repositório `https://github.com/Nicole-Bidigaray/ignite-challenge-01`
+ - Execute o backend do repositório `https://github.com/MarceloCG-bot/ignite-challenge-01`
  - Abra seu terminal na pasta raiz do projeto e execute `yarn` para baixar as dependências;
  - Para iniciar a aplicação execute o comando  `yarn dev`
  - Para executar os testes automatizados execute o comando  `yarn test`
